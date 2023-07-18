@@ -1,0 +1,13 @@
+.blok{
+    width: 200px;
+    height: 200px;
+    background-color: #f8f6f6;
+    transition: 3s linear;
+    transition-duration: 0,5s;
+    animation-iteration-count: 3;
+
+}
+.blok:hover{
+    background-color: green;
+
+}
